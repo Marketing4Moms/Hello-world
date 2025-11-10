@@ -34,4 +34,4 @@ A few paragraphs describing the project:
 - Why it exists (benefits, value proposition)
 
 Example:
-This project helps small businesses create marketing content tailored for new parents. It provides templates, scheduling guidance, and analytics-friendly
+This project helps momprenure digital marketers 
