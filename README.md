@@ -4,7 +4,7 @@ Read me
 
 Short one-line description of what this project does and who it's for.
 
-> Replace this with a concise elevator pitch — what problem does it solve and for whom?
+> We help mom's start their online digital business through online courses, videos, PLRs, templates, and digital downloads.  
 
 ---
 
