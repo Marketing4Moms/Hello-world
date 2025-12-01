@@ -1,6 +1,6 @@
 # Hello-world
 Read me
-# Project Title
+# Marketing 4Moms 
 
 Short one-line description of what this project does and who it's for.
 
@@ -28,10 +28,7 @@ Short one-line description of what this project does and who it's for.
 ---
 
 ## About
-A few paragraphs describing the project:
-- What it does
-- Who it's for (target users)
-- Why it exists (benefits, value proposition)
+We are an agency owned by mom's for moms. We homeschool, own our own online companies and collaborate at every turning point. We understand that 2 brains are better than one and that getting paid is better than getting the recognition. We are typically behind the scenes making our cohort look great in front of an audience. Ted talks or Oprah interview, we are for hire and have done it all! 
 
 Example:
 This project helps momprenure digital marketers 
